@@ -53,13 +53,13 @@ tccli configure set region ap-guangzhou  output json
 
 # get子命令用于获取配置信息。
 tccli configure get secretKey
-secretKey = OxXj7khcV1234dQSSYNABcdCc1LiArFd
+secretKey = *****
 
 # list子命令打印所有配置信息。
 tccli configure list
 credential:
-secretId =  AKIDwLw1234MMfPRle2g9nR2OTI787aBCDP
-secretKey =  OxXj7khcV1234dQSSYNABcdCc1LiArFd
+secretId =  *****
+secretKey =  *****
 configure:
 region =  ap-guangzhou
 output =  json
